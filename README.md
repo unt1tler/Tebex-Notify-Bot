@@ -21,7 +21,7 @@ A Discord bot that sends real-time purchase notifications from Tebex to your Dis
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/unt1tler/Tebex-Notify-Bot.git)
    cd tebex-discord-bot
    ```
 
