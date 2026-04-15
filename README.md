@@ -4,11 +4,11 @@ A Discord bot that sends real-time purchase notifications from Tebex to your Dis
 
 ## Features
 
-- 🚀 Real-time purchase notifications via webhooks
-- 🔒 Private channel notifications with complete purchase details
-- 📢 Public channel notifications with limited purchase information
-- 🛡️ Secure webhook endpoint for Tebex integration
-- ⚡ Instant notifications without polling
+- Real-time purchase notifications via webhooks
+- Private channel notifications with complete purchase details
+- Public channel notifications with limited purchase information
+- Secure webhook endpoint for Tebex integration
+- Instant notifications without polling
 
 ## Prerequisites
 
