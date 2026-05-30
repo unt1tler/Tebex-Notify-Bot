@@ -4,10 +4,6 @@
   "description": "Discord bot for Tebex purchase notifications",
   "main": "index.js",
   "private": true,
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
   "keywords": [
     "discord",
     "bot",
